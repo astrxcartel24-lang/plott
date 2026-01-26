@@ -1,0 +1,62 @@
+body{
+            background-color: darksalmon;
+            font-family: cursive;
+            font-size: larger;
+            text-indent: hanging;
+            padding: 140px;
+        }
+        h1{
+            color:red;
+            text-align: center;
+            font-size: 50px;
+        }
+        h2{
+            color: aqua;
+            text-align: justify;
+            font-size: 20px;
+        }
+        p{
+            color: darkgoldenrod;
+            background-color: white;
+            text-indent: hanging;
+            font-size: 24px;
+            padding: 50px;
+            margin-bottom: 30px;
+            border-radius: 20px;
+        }
+
+img {
+
+
+  display: flex;
+
+
+  justify-content: center;
+
+
+}
+
+
+
+
+
+ img {
+
+
+  width: 600px;
+
+
+  border-radius: 50px;
+
+
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+
+
+}
+ .mid-div{
+     width:60%;
+     margin: auto;
+ }
+ nav{
+     margin-bottom: 20px;
+ }
